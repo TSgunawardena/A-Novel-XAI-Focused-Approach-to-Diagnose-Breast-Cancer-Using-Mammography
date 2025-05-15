@@ -1,0 +1,6 @@
+2025-03-30 22:54:47,701 - ml_model - INFO - Prediction: Benign (0.4337)
+2025-03-30 22:55:07,866 - ml_model - INFO - LIME explanation generated and saved to static/lime/1743355486954_lime.png
+2025-03-30 22:55:44,718 - ml_model - INFO - Prediction: Benign (0.2816)
+2025-03-30 22:56:04,389 - ml_model - INFO - LIME explanation generated and saved to static/lime/1743355544612_lime.png
+2025-03-30 22:59:22,840 - ml_model - INFO - Prediction: Benign (0.2128)
+2025-03-30 22:59:46,696 - ml_model - INFO - LIME explanation generated and saved to static/lime/1743355762235_lime.png
